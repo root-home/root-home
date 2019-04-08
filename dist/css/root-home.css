@@ -1,0 +1,32 @@
+body, html {
+    overflow-x: hidden;
+    width: 100%;
+    background-color: #fff;
+}
+
+.spinnerWrapper {
+    margin-top: 24px;
+    text-align: center;
+}
+
+button.disabled {
+    pointer-events: none;
+}
+
+.controlPageWrapper {
+    margin-top: 0px;
+}
+
+.cmp-CommandInfo {
+    background-color: #fff;
+}
+.cmp-CommandInfo .btnDelete {
+    padding: 0;
+}
+
+.cmp-SaveBtn {
+    width: 100px;
+}
+.cmp-SaveBtn .fa.fa-spinner {
+    font-size: 16px;
+}
