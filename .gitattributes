@@ -1,0 +1,5 @@
+pkg/www/assets/js/ext/* linguist-vendored
+pkg/www/assets/js/root-home-out.js linguist-vendored
+pkg/www/assets/css/ext/* linguist-vendored
+dist/* linguist-vendored
+
